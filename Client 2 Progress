@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Client 2 Proposal Package</title>
+    </head>
+    <style>
+    body {
+        background-color:rgb(184, 227, 166);
+    }
+        h1 {
+            text-align:center;
+            background-color:rgb(212, 168, 240);
+            padding:10px;
+            border:groove 39px;
+        }
+        p {
+            background-color:rgb(212, 168, 240);
+            padding:5px;
+        }
+        li {
+            padding:4px;
+        }
+        table {
+            background-color:rgb(168, 187, 240);
+            padding:5px;
+            text-align:center;
+        }
+        tbody {
+            font-size:12px;
+        }
+        td {
+            padding:15px;
+        }
+
+    </style>
+    <body>
+<h1>Vivethen Balachandiran<br>ICS2O<br>Proposal Package<br>Client 2</h1>
+
+
+
+<ul>
+<li><b>5 computers that run  Linux and are powerful enough to play games</b></li>
+<li><b>4 more computers similar to each other</b></li>
+<li><b>Best network system and connectivity</b></li>
+<li><b>Needs a lot of storage</b></li>
+<li><b>A network storage system (NAS)</b></li>
+<li><b>A mechanical keyboard and a mouse with many buttons</b></li>
+</ul>
+
+ <table>
+        <thead>
+            <tr>
+                <th>Product Name</th>
+                <th>Hardware & Software Choice</th>
+                <th>Part Type</th>
+                <th>Product Bought From</th>
+                <th>Price</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>MSI B250M GAMING PRO LGA 1151</td>
+                <td>Motherboard (Free Mouse Nncluded)</td>
+                <td>Computer Motherboard and Gaming Mouse</td>
+                <td>MSI</td>
+                <td>$104.99 x5</td>
+            </tr>
+            <tr>
+                <td>G.SKILL Value Series 8GB (2 x 4GB) DDR3</td>
+                <td>RAM/Memory</td>
+                <td>8GB (2 x 4GB) DDR3 RAM</td>
+                <td>G.SKILL</td>
+                <td>$76.99 x5</td>
+            </tr>
+            <tr>
+                <td>Intel Core i5-7400 Kaby Lake</td>
+                <td>Desktop Proccessor</td>
+                <td>Quad-Core 3.0 Desktop Proccessor</td>
+                <td>Intel</td>
+                <td>$224.99 x5</td>
+            </tr>
+            <tr>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+        </tbody>
+    </table>
+    </body>
+</html>
