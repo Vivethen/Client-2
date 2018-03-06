@@ -25,12 +25,16 @@
             background-color:rgb(168, 187, 240);
             padding:5px;
             text-align:center;
+            border:10px ridge;
         }
         tbody {
             font-size:12px;
         }
         td {
-            padding:15px;
+            padding:5px;
+            border:ridge;
+        }
+        th {
         }
 
     </style>
@@ -55,7 +59,7 @@
                 <th>Hardware & Software Choice</th>
                 <th>Part Type</th>
                 <th>Product Bought From</th>
-                <th>Price</th>
+                <th>Price<br>(Tax Not Calculated)</th>
             </tr>
         </thead>
         <tbody>
@@ -81,13 +85,48 @@
                 <td>$224.99 x5</td>
             </tr>
             <tr>
+                <td>MSI GeForce GTX 1060 DirectX 12</td>
+                <td>Graphics Card</td>
+                <td>Express 3.0 x16 HDCP Desktop Graphics Card</td>
+                <td>MSI</td>
+                <td>$489.99 x5</td>
+            </tr>
+            <tr>
+                <td>Rosewill FBM-X1 Black Steel / Plastic ATX Mini Tower Case</td>
+                <td>Computer Case</td>
+                <td>Black Steel / Plastic ATX Mini Tower Case with Side Panel Window Computer Case</td>
+                <td>Rosewill</td>
+                <td>$29.99 x5</td>
+            </tr>
+                        <tr>
+                <td>hec HP400D RETAIL 400W ATX12V Power Supply</td>
+                <td>Powr Supply (Free Power Cord Included)</td>
+                <td>HP400D RETAIL 400W ATX12V Power Supply And Power Cord </td>
+                <td>hec</td>
+                <td>$24.99 x5</td>
+            </tr>
+                        <tr>
                 <td></td>
                 <td></td>
                 <td></td>
                 <td></td>
                 <td></td>
             </tr>
-            <tr>
+                        <tr>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+                        <tr>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+                        <tr>
                 <td></td>
                 <td></td>
                 <td></td>
